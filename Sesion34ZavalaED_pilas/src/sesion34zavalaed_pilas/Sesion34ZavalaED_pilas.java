@@ -25,7 +25,8 @@ public class Sesion34ZavalaED_pilas {
         pilaZavala.push(10);
         pilaZavala.push(160);
         JOptionPane.showMessageDialog(null, "Datos de la pila ordenada es :"+pilaZavala);
-        
+        JOptionPane.showMessageDialog(null, "Autor : Zavala Perez Velia");
+
     }
     
 }
